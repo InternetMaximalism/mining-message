@@ -39,9 +39,11 @@ A: IP blocking is done for IP addresses that are under sanctions such as North K
 A: It is randomized, and non-randomized interval deposits are easily identifiable, so there will be no rewards. Please note.  
 
 > Just curious if I need to privately send my partners some ETH or USDC could it work with you?
- A: You are very welcome to explore the various use cases of the protocol with the understanding that we are not a money transfer business. 
+
+A: You are very welcome to explore the various use cases of the protocol with the understanding that we are not a money transfer business. 
 
 > If I mannyally set my value to the env.miainnet.json , is it eligible ?  
+
 A: If this value is different from other participants on the protocol, it is more likely that you will not receive the reward. The important point is that all identifiable fund combinations will receive slash. 
 
 > “ERROR: Serialization error: failed to parse response: error decoding response body: data did not match any variant of untagged enum CirculationResponse “what is this ? and how can I avoid this ?  
