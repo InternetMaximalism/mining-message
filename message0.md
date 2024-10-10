@@ -57,3 +57,25 @@ A: The gas cost with Layer1 is indeed high. We know that this makes many users h
 > Q: What actions will disqualify me from receiving ITX token rewards?   
 
 A: All identifiable withdraw/deposit combinations will be subject to reduction. All identifiable withdraw/deposit combinations will be subject to reduction, as will any minings that do not contribute to privacy, i.e., circulation type2. We have decided to write more about this in [hackmd](https://hackmd.io/zNLtkMXXSCernbkTf1BTrQ). Please take a look.
+
+Added on 10.10.2024
+
+1. Many ppl are sending money from "withdraw address" to "deposit address." It makes the reward 0. Please don't.
+
+2. Many ppl are customizing the CLI software to make the interval short, but it reduces the reward significantly. We strongly recommend use the CLI normaly, bc all distinguishable transactions will be slashed in this system, and the CLI avoids that probelm.
+
+>Are deposits are randomized by the sleep time and can changing the sleep time be regarded as manipulation?
+
+A: It's hard to make a regular interval with a sleep condition. If restarting the cli makes rushy deposits, there can be a problem in a rewarding process. The next version needs that patch. 
+
+>does anyone know more about "randomized interval deposits"? I don't know what can be "non"-randomized deposit/withdrawal coz it's controlled by the software and the protocol.
+
+A: "Non-randomised" means a constant interval like every deposit interval is 1 hour or being too rushy in a short period like <10 min.
+
+> what we do if we cannot send it back to exchanges after withdrwaing ETH from Intmax? just leave it there or use other privacy protocols?
+
+A: If sending privacy ETH back to an exchange makes certain distinguishability, 2/3 of your reward will be slashed. There are 3 options to avoid it
+1. Using this protocol again not for rewards
+2. Using another protocol
+3. Just waiting for 3 months
+But, anyway, withdrawn ETH is private ETH. Why do you want to redeposit it to exchange to ruin it?
