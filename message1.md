@@ -16,6 +16,8 @@ The second principle is not to make an obvious circulation. This one makes anoth
 
 About the structure, we hope this picture helps
 
+![keyaddressstructure](https://github.com/user-attachments/assets/2866c94f-7927-4803-89c1-de037e3af231)
+
 # Answers to Questions
 
 > Does this mean 50% of the current mining rewards go to the treasury if the 2nd halving took place on Sep?
