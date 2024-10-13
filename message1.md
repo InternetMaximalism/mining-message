@@ -1,5 +1,5 @@
 Hi, guys!
-Thanks for stay in the loop literally.
+Thanks for staying in the loop literally.
 
 We are very happy to see much EOL (private $ETH) is being produced.
 
