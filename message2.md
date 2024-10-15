@@ -43,7 +43,10 @@ We can copy and paste to post the answers if it's really required.
 
 "multiple" was not a correct word, and this part remained opaque in the document. Our applogies. We updated the doc and keep updating it.
 
+--
 [Added on 15.10.2024]
+--
+
 Hi, all.
 We'll do everything we can do for those who were just using the CLI even if there were some unexpected issues.
 We once stop finalizing the reward tree to deal with this so that the reward distribution will have some delay. Thanks for the comprehension.
