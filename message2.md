@@ -16,7 +16,7 @@ One thing we can assure you guys is that we don't go this treasury issurance wit
 >The fact that 11 addresses, with no signs of participating in privacy mining, hold a large amount of ITX tokens is a bigger issue. While we are told that circuit verifications can be confirmed, it’s clear that these addresses have not engaged in any activity other than receiving ITX tokens. The team has an obligation to clearly explain why these addresses were able to claim the tokens.
 
 It's us. As we described [here](https://hackmd.io/zNLtkMXXSCernbkTf1BTrQ?view#The-history-of-this-mining), we were mining from the beggining.
-We publish this mining in August admitting the risk of the competition, but there was no competitor at that period actually.
+We publish this mining with detailed introductions on the github organization top page in August admitting the risk of the competition, but there was no competitor at that period actually. We also pinned and tweeted.
 We don't know if people could call this premine or if people don't call this premine because it was published to have potential competitions, but we secured almost 30% of the max supply by the mining.
 The large part of that 30% will be donated to the treasury, so we don't keep all of them. Let us publish the detail including the locking period soon.
 
@@ -25,7 +25,7 @@ But this time, the CLI should have been simple to use. That's the only the reaso
 
 >but it is obvious that after INTMAX reaches TGE
 
-The ERC20 is not transferable now. We don't think that it's TGE in a legal sence.
+The ERC20 is not transferable now. We don't think that it's TGE in a legal sence. It's a point now.
 
 >many crypto critics will discover and condemn this opaque system
 >The INTMAX team should seriously respond to the criticisms and questions from us, the supportive early adopters, and prepare for real criticism. 
