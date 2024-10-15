@@ -53,7 +53,7 @@ We once stop finalizing the reward tree to deal with this so that the reward dis
 
 > I believe early supporters here are eligible for such a treatment as an "amnesty period”
 
-What we can do is to ease the border line or some parameters like, the penalty for 5/10 concentrated deposits => 7/10 is still fine. We don't change the code itself since it's not so easy to change the structure which was done while ago. Also we don't think it has enough legitimacy to change the code or the structure itself. There's something we can never be tolerant to like 10/10 is deposited in a hour, since it's very hard to think it's unintentional.
+What we can do is to ease the border line or some parameters like, the penalty for 5/10 concentrated deposits => 7/10 is still fine. We don't change the structure itself since it's not so easy to change the structure which was done while ago. Also we don't think it has enough legitimacy to change the code or the structure itself. There's something we can never be tolerant to like 10/10 is deposited in a hour, since it's very hard to think it's unintentional.
 
 >I just went through the update and I'm wondering if case 3 will be punished for the past weeks?
 
