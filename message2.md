@@ -42,4 +42,42 @@ We can copy and paste to post the answers if it's really required.
 >for "multiple deposits within 4 hours", if we simply let CLI do its job, are more than 2 deposits within 4 hours theoretically really impossible even if you were to draw a rare random number consecutively? if Deposit 1 -> sleep 1 -> Withdrawal 1 -> sleep 2 -> Deposit 2, sleep 1 + sleep 2 < 4 hrs does look possible. Or you meant multiple deposits within 4 hrs ON AVERAGE?
 
 "multiple" was not a correct word, and this part remained opaque in the document. Our applogies. We updated the doc and keep updating it.
- 
+
+[Added on 15.10.2024]
+Hi, all.
+We'll do everything we can do for those who were just using the CLI even if there were some unexpected issues.
+We once stop finalizing the reward tree to deal with this so that the reward distribution will have some delay. Thanks for the comprehension.
+
+> I believe early supporters here are eligible for such a treatment as an "amnesty period”
+
+What we can do is to ease the border line or some parameters like, the penalty for 5/10 concentrated deposits => 7/10 is still fine. We don't change the code itself since it's not so easy to change the structure which was done while ago. Also we don't think it has enough legitimacy to change the code or the structure itself. There's something we can never be tolerant to like 10/10 is deposited in a hour, since it's very hard to think it's unintentional.
+
+>I just went through the update and I'm wondering if case 3 will be punished for the past weeks?
+
+We will significantly ease the border line of case 3 like described in the previous comment.
+1. The penalty on concentrated deposits don't be applied if it's less than 8/10
+2. The penalty on half-way deposit (1/10~9/10) will be eased.
+are under a discussion. The many of incidents classified as case 3 will be saved at this time.
+
+>The past cases should not be penalized retroactively except in cases that clearly don't contribute to privacy, such as case 4.
+
+Actually, the most of cases of cases 3 don't contribute to privacy or the anonymity set because they are highly distinguishable.
+So making no-reduction for all case3 cases is an unacceptable idea. We might as well throw away all of this system if we allow that. But the many of case 3 should be saved since the CLI guidance without the detailed docs did not work this time.
+
+>I have done mining on my personal laptop and I think I’ve got penalized for case 3 because I have to reboot the CLI every time I move physically from one place to another.
+
+Yes, we took time to realize this problem. We did not find that sleep and reboot makes short time depositing. Our apologies. 
+
+>Which is it?  Point farming/airdrop or a serious coin mining like BTC, LTC, and XMR? 
+
+It's a difficult question. If it's allowed, we would like to say it's middle now. What we want to make is automatic rewards for contributions to privacy, and you can call it point farming in a sence since many point systems are automatic. But, in that sense, it differs from airdoping.
+It has competitions and works like PoW, and that's why we call this mining.
+
+>1 - It is very didactic the way the information has been put in order to be able to configure the networks and fundraising in eth well to use in the base.
+
+>2 - In terms of the alchemy material, I think we could improve the delivery of information in the registration section. When registering, there are some screens that the user has to configure, such as: type of activity, which is not mentioned in the manual. I had to ask Vi, because I didn't know if this would have an impact on the configuration model sent in the manual as a printout. And at the end, inform them that they will only be on the api key screen and will not do anything else from there, just get the info and inform the mining terminal. 
+
+>3 - I believe that if videos of the process are included in the manual, it could be more didactic and easier to operate the whole process.
+
+Thanks for your precious feedback. We consider courteous guidance and display on the CLI. Indeed, the alchemy part is the part where the user stumbles more than the CLI itself. 
+
