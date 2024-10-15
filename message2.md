@@ -20,7 +20,7 @@ We publish this mining with detailed introductions on the github organization to
 We don't know if people could call this premine or if people don't call this premine because it was published to have potential competitions, but we secured almost 30% of the max supply by the mining.
 The large part of that 30% will be donated to the treasury, so we don't keep all of them. Let us publish the detail including the locking period soon.
 
-All the token cames from mining. No exception. It should not be so linkable actually and it's using zkp to unlink since the reward amount can make many information to reveal the deposit.
+All the token cames from mining. No exception. It should not be so linkable actually and it's using zkp to unlink it from a withdraw address since the reward amount can make many information to reveal the deposit.
 But this time, the CLI should have been simple to use. That's the only the reason why the withdraw address is the claim address in today's CLI.
 
 >but it is obvious that after INTMAX reaches TGE
@@ -31,7 +31,7 @@ The ERC20 is not transferable now. We don't think that it's TGE in a legal sence
 >The INTMAX team should seriously respond to the criticisms and questions from us, the supportive early adopters, and prepare for real criticism. 
 
 Yes, huge thanks for this discussion. This system is not opaque, but the document was. The problem was that we prioritised the invitations to this mining 
-since the halving was close. It was our duty to invite many people in privacy spaces to this opportunity. We intended to make the doc simple not to confuse you guys, but seems actually it did.
+since the halving was close. And we expected that just following CLI's guide would make people follow the protocol rules, that was not true as we could see in the result. It was our duty to invite many people in privacy spaces to this opportunity. We intended to make the doc simple not to confuse you guys, but seems actually it did.
 Only the opaque part of this system is the treasury issurance which is not decided. Nothing else.
 
 >The 'message' response is insufficient and will not satisfy them.
