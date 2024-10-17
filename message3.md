@@ -10,6 +10,7 @@ Another big new is a new functionality of the CLI. In the next version, you can 
 
 ### part 1
 It's a very important moment for us; we ask the admin to copy and post this part 1 in the chat as well.
+Making all people, miners, community members, supporters, investors, devs, and all those who think privacy is precious, requires extreme works. And we are trying to achieve it.
 
 What made us consistent and restricted our greed is the disclosure of this mining from the beginning and its publishing policy.
 The policy had been prioritizing giving enough guidance for ppl to get opportunities and expect something good by contributing to privacy, then we published the mining from the beginning with a full guidance.
