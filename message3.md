@@ -33,7 +33,7 @@ Yes, “the arbitrary introduction of treasury rewards” was a bad idea. 100%, 
 
 It was not what we intended. Nobody came after we published it from the beginning. Even after we tweeted with a pinned repository, people did not come. Then we made direct messages to invite privacy people, then we got relieved to see people came. We truly appreciate it that you started this. 
 
-To fix this kind of centralisation of funds, we’ll donate large amounts of funds to the Treasury.
+To fix this kind of centralization of funds, we’ll donate large amounts of funds to the Treasury.
 
 >thought that more deposits and withdrawals would lead to more mixing and therefore better privacy. We genuinely believed that more deposits = more privacy = more rewards
 
