@@ -19,7 +19,7 @@ We made the HackMD document as a guide, not a rule book like you described. It d
 
 So this reaction was totally what we did not expect honestly, but what happened happened. The discussion is about how to save the miners who just tried to use the CLI. 
 
-We can not change the structure, we can change the parameter only for this time. Saving rushers should be dealt with by another way, and we should do something for them.
+We can not change the structure, we can change the parameter only for this time. Saving rushers should be dealt with by another way, and we should do something for them. 7/10 rushy deposits & depositing all 10 ETH till the next claim (more than 1 week later) will be allowed. Please finish the 10 ETH deposit cycle in a week if you are in a half way.
 
 > the challenges i am aware of are the team's inconsistent adaptation of rules, the monopoly of initial mining rewards, and the arbitrary introduction of treasury rewards, which hurt INTMAX's brand. 
 
