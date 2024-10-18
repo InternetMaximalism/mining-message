@@ -13,3 +13,16 @@ Specific policies are as follows:
 
 1. Complete cessation of Case 3 application to all activities from and including 10 days before publication
 2. Not applying half-way penalties for deposit cycles that began after 12th 0:00
+
+After the move to Base, please update your CLI to a new version.
+
+## Answers to questions
+
+Hello. We are pleased that the team has shown understanding for us and would like to express our thanks for the detailed replies.
+
+>  ::the circulation and the highly distinguishable deposit was prohibited as the rule
+
+> We understood these rules. But we still thought our rushy deposits would not be highly distinguishable because many other miners already made rushy deposits. Being rushy makes us distinguishable only when there are no rushy people, but once there are, a newly added rushy person is no longer distinguishable. This was our thought, and we believed we wouldn’t break the rule. Of course, we now understand that the degree of the anonymity goes down when there are two types of behavior in one anonymity pool. However, at the time we thought that was part of the game.
+
+This is a very interesting topic, let me explain in detail.
+At first glance, rushing seems fine when there are many rushers. But, if one acts very rushy to do instant deposit and withdraw, it's distinguishable. So, to be indistinguishable, you need to have enough possibility that other rushers or usual people withdraw funds in the period from your depositing to your withdrawing. People are economically incentivised to act extremely rushy without forced random periods. That's the reason why we need a random period to wait. Essentially, if we can have the randomness on the withdrawal side, it's fine. But we cannot verify that on the withdrawal side since it's private. If we use zkp to prove a deterministic period to wait coming from a private key & a block header, we can verify it without deposit-side randomness. Anyway, in any case, rushy deposits are basically distinguishable.
