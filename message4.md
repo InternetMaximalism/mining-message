@@ -18,7 +18,7 @@ After the move to Base, please update your CLI to a new version.
 
 ## Answers to questions
 
-Hello. We are pleased that the team has shown understanding for us and would like to express our thanks for the detailed replies.
+> Hello. We are pleased that the team has shown understanding for us and would like to express our thanks for the detailed replies.
 
 >  ::the circulation and the highly distinguishable deposit was prohibited as the rule
 
