@@ -14,7 +14,7 @@ Specific policies are as follows:
 1. Complete cessation of Case 3 application to all activities from and including 10 days before publication
 2. Not applying half-way penalties for deposit cycles that began after 12th 0:00
 
-After the move to Base, please update your CLI to a new version.
+After the move to Base on 19th 0:00, please update your CLI to a new version.
 Guide: https://hackmd.io/g1Pl9rQAQMmC86I7wiMEtQ
 
 ## Answers to questions
