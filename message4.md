@@ -36,7 +36,7 @@ Sorry for the delay of claiming. Applying the result of discussion above takes a
 
 ![image](https://github.com/user-attachments/assets/86915493-74ff-4f5b-b381-8b87caf0bd56)
 
-This point was a biggest discussion in the team, and originally the team intended to make all the withdraw addresses are different, like 10 deposits make 10 withdraw addresses. But we expected that people will bind them all anyway. So what you pointed out already happened.
+This point was a biggest discussion in the team, and originally the team intended to make all the withdraw addresses are different, like 10 deposits make 10 withdraw addresses. But we expected that people would bind them all anyway. So what you pointed out already happened.
 
 When it's a distinguishable amount to correspond to a set of deposits which originally comes from one address, yes, it should be banned. But the current program is not banning that. Actually this is the only the way to ban the huge amout mining done by a super rich, and let us propose the plan to ban this.  
 Introduction of "quiz protocol" 
