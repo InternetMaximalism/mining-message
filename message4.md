@@ -53,7 +53,7 @@ The rewards and the punishments are on deposit side, and the program traces with
 
 >Explain, I don't understand why I should give the private key and not the public key? This is basic security - do not share the private key with anyone
 
-Yes. And you are not giving a key to anybody. It's non-custodial. Importing a key to a node program is really normal while we admit that not so many people of current miners have experiences of that. Welcome to the new world.
+Yes. And you are not giving a key to anybody. It's non-custodial. Importing a key to a node program is really normal while we admit that not so many people of current miners have experiences of that.
 
 >What I will be appreciated for if team could give us updates in Discord not just in GitHub. 
 
