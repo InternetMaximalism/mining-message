@@ -38,13 +38,13 @@ Sorry for the delay of claiming. Applying the result of discussion above takes a
 
 This point was a biggest discussion in the team, and originally the team intended to make all the withdraw addresses are different, like 10 deposits make 10 withdraw addresses. But we expected that people would bind them all anyway. So what you pointed out already happened.
 
-When it's a distinguishable amount to correspond to a set of deposits which originally comes from one address, yes, it should be banned. But the current program is not banning that. Actually this is the only the way to ban the huge amout mining done by a super rich, and let us propose the plan to ban this.  
+When it's a distinguishable amount to correspond to a set of deposits which originally comes from one address, yes, it should be banned. But the current program is not banning that since we did not announce it nor implement it. Actually this is the only the way to ban the huge amout mining done by a super rich, and let us propose the plan to ban this.  
 Introduction of "quiz protocol" 
 1. finding and proposing a combination of withdraws and deposits (manually or automatically)
 2. proposing the combination onchain
 3. the widthdrawer needs to prove that the specified withdrawn money is not coming from the deposit by ZKP.
 
-We are planning to propose this to the community to introduce this 1,2 months later. Let us add this to the document.
+We are planning to propose this to the community to introduce this 1,2 months later. Let us add this to the document　as a formal proposal.
 
 > how do you punish the withdrawal address based on the behavior of the deposit address when no one knows which withdrawal address is associated with the deposit address? I mean, if I use address A as a deposit and address B as a withdrawal and break the rule by doing rushy deposits from address A, how the team/the protocol knows address B should receive no/much less rewards? or it's not about rushy deposits but about rushy withdrawal indirectly?
 >the rewards are per deposit but the withdrawal address claim the rewards.
