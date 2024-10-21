@@ -30,6 +30,8 @@ At first glance, rushing seems fine when there are many rushers. But, if one act
 
 ### Added on 21th Octorber
 
+Sorry for the delay of claiming. Applying the result of discussion above takes a bit, 1 or 2 weeks. 
+
 >hi, just out of curiosity, does linking withdrawal addresses directly/indirectly make us ineligible for the rewards? for example, I can easily detect all of these withdrawal addresses belong to the same person, but I cannot tell which deposit addresses are associated with them. is this guy still eligible for the reward? considering it is effectively the same as continuing to use one withdrawal address, not subject to a penalty?
 
 ![image](https://github.com/user-attachments/assets/86915493-74ff-4f5b-b381-8b87caf0bd56)
