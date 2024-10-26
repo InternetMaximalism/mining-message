@@ -35,3 +35,7 @@ During the time when the error happened my deposits failed about 4 time. does th
 
 This does not change rewarding policy, and the cancelled deposits will be ignored. 1 hour network issue and 6 hours client side issue is rather limited to the 2 weeks rewarding period.
 Thanks for your comprehension.
+
+>Hi, a serious miner here. Some questions to clarify.   Will the claimed token be transferable immediately, or are there cliff/vesting periods? 
+
+Yes, there will be a vesting period. It will never be more than 1 year.
