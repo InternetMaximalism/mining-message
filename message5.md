@@ -6,7 +6,7 @@ The suspended claiming is now on process, finalizing the eligible amount for eac
 
 In terms of rules and criteria for slashing, we were asked to state them exactly. We added them to the documents, and also state here as well.
 The circulation part and rushy deposit part is just adding the exact functions of the tracers.
-This statement regarding hub addresses is less strict than what was told previously, so that nobody makes less rewards than he/she expected from the documents.
+This statement regarding hub addresses is less strict than what was described previously (the recommendation of using privacy dapps), so that nobody makes less rewards than he/she expected from the documents.
 
 [Circulation] Circulations include greater circles not limited to 1 hop or 2 hops. Let's call addresses, which have many incoming/outgoint transactions among many addresses without a link between incoming fund and outgoint fund in one transaction, "hub address". Avoiding circulation requires to have a hub address to come back to the contract.  
 
