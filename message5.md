@@ -38,4 +38,4 @@ Thanks for your comprehension.
 
 >Hi, a serious miner here. Some questions to clarify.   Will the claimed token be transferable immediately, or are there cliff/vesting periods? 
 
-Yes, there will be a vesting period. It will never be more than 1 year.
+Yes, there will be a vesting period. It will never be more than 1 year. The current plan for the team and investors is like 3 years.
