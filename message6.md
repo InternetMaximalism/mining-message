@@ -1,4 +1,5 @@
 Hi all,
+
 We have just finished processing Claims. It took some extra time as we had to process transactions that occurred before the rules were publicly announced on October 10th. Thank you for your patience. Claims are now available on mainnet legacy. There's no need to rush - the rewards aren't going anywhere. We're also preparing Base rewards.
 
 Despite having a 1 ETH cap, mining has exceeded 400 ETH per day and will soon reach a cumulative 10K ETH. This social experiment to incentivize Privacy Volume has been fascinating, and we can't imagine what will happen in 2 months.
