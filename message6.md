@@ -13,7 +13,8 @@ Time information during withdrawals often compromises privacy, with many cases t
 
 We are proposing several new mining plans that could be implemented in 1-3 months. These will narrow down hide and seek possibilities, enhance privacy, clarify user flow, and enable collaboration with other privacy protocols:
 
-Plan A: Privacy Summer
+### Plan A: Privacy Summer
+
 Maintain the current structure with minimal changes. Use on-chain voting to strictly nominate other Privacy protocol candidates and have users circulate through them. Users might receive multiple rewards as other privacy protocols may also offer rewards.
 
 We're leaning toward Plan A, but would like to hear your thoughts on these alternative plans or any new ideas:
